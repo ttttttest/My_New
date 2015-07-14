@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UsingList</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Az">Azalea</string>
+    <string name="Tib">Tibouchina Semidecandra</string>
+    <string name="Hib">Hibiscus</string>
+
+    <string name="AzInstr">Azalea Azalea Azalea Azalea Azalea Azalea Azalea Azalea Azalea Azalea Azalea Azalea </string>
+    <string name="TibInstr">Tibouchina SemidecandraTibouchina SemidecandraTibouchina SemidecandraTibouchina SemidecandraTibouchina SemidecandraTibouchina SemidecandraTibouchina SemidecandraTibouchina SemidecandraTibouchina Semidecandra</string>
+    <string name="HibInstr">Hibiscus Hibiscus Hibiscus Hibiscus Hibiscus Hibiscus Hibiscus Hibiscus Hibiscus Hibiscus Hibiscus Hibiscus Hibiscus </string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_flower_item">FlowerItem</string>
+</resources>
